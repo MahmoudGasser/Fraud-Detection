@@ -49,9 +49,6 @@ This project implements a complete machine learning pipeline—from raw data ing
 
 ---
 
-## 📂 Quick Start
 
-1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/your-username/transaction-fraud-detection.git](https://github.com/your-username/transaction-fraud-detection.git)
    cd transaction-fraud-detection
