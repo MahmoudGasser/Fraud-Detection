@@ -49,6 +49,3 @@ This project implements a complete machine learning pipeline—from raw data ing
 
 ---
 
-
-   git clone [https://github.com/your-username/transaction-fraud-detection.git](https://github.com/your-username/transaction-fraud-detection.git)
-   cd transaction-fraud-detection
